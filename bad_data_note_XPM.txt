@@ -1,0 +1,47 @@
+ID	JD	filename	NoteIdx	Note
+653	2459318	FU_Ori-20210413_113401-V_Astrodon_2018_calib.fits	2	outlier,faint,Vmag=7.94,dV=0.17
+650	2459318	FU_Ori-20210413_113158-V_Astrodon_2018_calib.fits	2	outlier,faint,Vmag=8.24,dV=0.19
+614	2459303	FU_Ori-20210329_122953-V_Astrodon_2018_calib.fits	4	outlier,faint,Vmag=10.27,dV=0.15
+611	2459302	FU_Ori-20210328_123432-V_Astrodon_2018_calib.fits	2	outlier,faint,Vmag=8.11,dV=0.15
+608	2459302	FU_Ori-20210328_123232-V_Astrodon_2018_calib.fits	2	outlier,faint,Vmag=8.02,dV=0.12
+521	2459277	FU_Ori-20210303_155134-V_Astrodon_2018_calib.fits	4	outlier,faint,Vmag=9.90,dV=0.15
+503	2459273	FU_Ori-20210227_120754-V_Astrodon_2018_calib.fits	4	outlier,faint,Vmag=8.55,dV=0.12
+497	2459271	FU_Ori-20210225_140922-V_Astrodon_2018_calib.fits	4	outlier,faint,Vmag=8.48,dV=0.12
+275	2459213	FU_Ori-20201229@194448-V_Astrodon_2018_calib.fits	2	moon,bigerror
+272	2459213	FU_Ori-20201229@194256-V_Astrodon_2018_calib.fits	2	moon,bigerror
+269	2459213	FU_Ori-20201229@155648-V_Astrodon_2018_calib.fits	2	moon,bigerror
+266	2459213	FU_Ori-20201229@155457-V_Astrodon_2018_calib.fits	2	moon,bigerror
+209	2459184	FU_Ori-20201130@172204-V_Astrodon_2018_calib.fits	2	moon,bigerror
+206	2459184	FU_Ori-20201130@172011-V_Astrodon_2018_calib.fits	2	moon,bigerror
+131	2459157	FU_Ori-20201103@172457-V_Astrodon_2018_calib.fits	4	outlier,moon,Vmag=10.39,dV=0.17
+128	2459157	FU_Ori-20201103@172257-V_Astrodon_2018_calib.fits	4	outlier,moon,Vmag=9.82,dV=0.15
+
+673	2459335	FU_Ori-20210430_112234-B_Astrodon_2018_calib.fits	2	outlier,faint,Bmag=11.87,dB=0.27
+616	2459303	FU_Ori-20210329_123054-B_Astrodon_2018_calib.fits	4	faint,bigerror,Bmag=11.27,dB=0.38
+613	2459303	FU_Ori-20210329_122850-B_Astrodon_2018_calib.fits	2	outlier,faint,bigerror,Bmag=12.20,dB=0.48
+610	2459302	FU_Ori-20210328_123333-B_Astrodon_2018_calib.fits	2	outlier,faint,badfit,bigerror,Bmag=12.65,dB=0.27
+607	2459302	FU_Ori-20210328_123129-B_Astrodon_2018_calib.fits	2	outlier,faint,badfit,bigerror,Bmag=12.23,dB=0.26
+604	2459301	FU_Ori-20210327_122716-B_Astrodon_2018_calib.fits	4	outlier,faint,badfit,bigerror,Bmag=12.07,dB=0.27
+592	2459295	FU_Ori-20210321_135934-B_Astrodon_2018_calib.fits	2	faint,badfit,bigerror,Bmag=11.87,dB=0.40
+589	2459295	FU_Ori-20210321_135729-B_Astrodon_2018_calib.fits	2	faint,badfit,bigerror,Bmag=13.47,dB=0.44
+520	2459277	FU_Ori-20210303_155034-B_Astrodon_2018_calib.fits	4	faint,badfit,bigerror,Bmag=10.69,dB=0.33
+517	2459277	FU_Ori-20210303_154828-B_Astrodon_2018_calib.fits	2	faint,badfit,bigerror,Bmag=12.12,dB=0.55
+274	2459213	FU_Ori-20201229@194351-B_Astrodon_2018_calib.fits	2	moon,badfit,bigerror,Bmag=11.93,dB=0.41
+271	2459213	FU_Ori-20201229@194157-B_Astrodon_2018_calib.fits	2	moon,badfit,bigerror,Bmag=11.14,dB=0.42
+268	2459213	FU_Ori-20201229@155552-B_Astrodon_2018_calib.fits	2	moon,badfit,bigerror,Bmag=12.23,dB=0.49
+265	2459213	FU_Ori-20201229@155357-B_Astrodon_2018_calib.fits	2	moon,badfit,bigerror,Bmag=11.34,dB=0.42
+208	2459184	FU_Ori-20201130@172107-B_Astrodon_2018_calib.fits	4	moon,badfit,bigerror,Bmag=11.29,dB=0.30
+205	2459184	FU_Ori-20201130@171911-B_Astrodon_2018_calib.fits	4	moon,badfit,bigerror,Bmag=10.99,dB=0.31
+133	2459158	FU_Ori-20201104@145939-B_Astrodon_2018_calib.fits	4	faint,badfit,bigerror,Bmag=11.76,dB=0.34
+
+678	2459335	FU_Ori-20210430_112610-R_Astrodon_2018_calib.fits	2	outlier,badfit,bigerror,Rmag=10.01,dB=0.42
+675	2459335	FU_Ori-20210430_112410-R_Astrodon_2018_calib.fits	2	outlier,badfit,bigerror,Rmag=10.21,dB=0.42
+276	2459213	FU_Ori-20201229@194519-R_Astrodon_2018_calib.fits	2	moon,badfit,bigerror,Rmag=8.80,dB=0.45
+273	2459213	FU_Ori-20201229@194326-R_Astrodon_2018_calib.fits	2	moon,badfit,bigerror,Rmag=9.19,dB=0.52
+270	2459213	FU_Ori-20201229@155727-R_Astrodon_2018_calib.fits	2	moon,badfit,bigerror,Rmag=9.41,dB=0.50
+267	2459213	FU_Ori-20201229@155527-R_Astrodon_2018_calib.fits	2	moon,badfit,bigerror,Rmag=9.30,dB=0.42
+210	2459184	FU_Ori-20201130@172246-R_Astrodon_2018_calib.fits	2	moon,badfit,bigerror,Rmag=10.07,dB=0.47
+207	2459184	FU_Ori-20201130@172041-R_Astrodon_2018_calib.fits	2	moon,badfit,bigerror,Rmag=10.20,dB=0.42
+18	2459130	FU_Ori-20201007@185651-R_Astrodon_2018_calib.fits	2	moon,badfit,bigerror,Rmag=9.60,dB=0.33
+15	2459130	FU_Ori-20201007@185500-R_Astrodon_2018_calib.fits	2	moon,badfit,bigerror,Rmag=9.61,dB=0.34
+

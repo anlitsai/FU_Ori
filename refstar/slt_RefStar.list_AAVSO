@@ -1,0 +1,9 @@
+IAU_Name	ObjectName	RA_hhmmss	DEC_ddmmss	Redshift	RefStarID	Bmag	Bmag_err	Vmag	Vmag_err	Rmag	Rmag_err	NoteIdx	Note
+FU_Orionis	FU_Ori	05:45:22.316	+09:04:11.00	0.000	FU_Ori	11.004	0.051	-9999	-9999	-9999	-9999	0	star;II/336/apass9;AAVSO(Henden+2016);Rmag=>r'mag
+FU_Orionis	FU_Ori	05:45:42.341	+09:07:46.58	0.000	A	14.957	0.002	13.478	0.002	-9999	-9999	1	recommend;II/336/apass9;AAVSO(Henden+2016);Rmag=>r'mag
+FU_Orionis	FU_Ori	05:45:28.851	+09:01:45.16	0.000	B	15.358	0.002	13.082	0.002	-9999	-9999	1	recommend;II/336/apass9;AAVSO(Henden+2016);Rmag=>r'mag
+FU_Orionis	FU_Ori	05:45:21.575	+08:58:41.06	0.000	C	14.805	0.002	13.978	0.002	-9999	-9999	1	recommend;II/336/apass9;AAVSO(Henden+2016);Rmag=>r'mag
+FU_Orionis	FU_Ori	05:45:13.885	+09:04:44.27	0.000	D	15.454	0.002	13.410	0.002	-9999	-9999	1	recommend;II/336/apass9;AAVSO(Henden+2016);Rmag=>r'mag
+FU_Orionis	FU_Ori	05:45:02.595	+09:03:49.96	0.000	E	14.554	0.002	12.890	0.002	-9999	-9999	1	recommend;II/336/apass9;AAVSO(Henden+2016);Rmag=>r'mag
+FU_Orionis	FU_Ori	05:45:56.264	+08:57:17.50	0.000	I	13.661	0.002	12.930	0.002	-9999	-9999	1	recommend;II/336/apass9;AAVSO(Henden+2016);Rmag=>r'mag
+FU_Orionis	FU_Ori	05 45 22.3	+09 04 11	0.000	bkg	-9999	-9999	-9999	-9999	-9999	-9999	-1	background

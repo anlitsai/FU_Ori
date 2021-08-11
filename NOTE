@@ -1,0 +1,40 @@
+2020/10	42 x BVR
+2020/11	30 x BVR
+2020/12	24 x BVR
+2021/01	41 x BVR
+2021/02	35 x BVR
+2021/03	36 x BVR
+2021/04	20 x BVR
+Total 228 x BVR
+
+B 30sec
+V 10sec
+R 5sec
+
+
+
+
+
+master failed
+202012
+202103
+202104
+
+master bias pass
+
+master dark 
+202012 ok
+202101
+202103 MemoryError => fixed
+202104 ValueError: operands could not be broadcast together with shapes (80,) (2048,2048) => fixed
+
+
+master flat failed
+
+
+calibration
+202101 failed => fixed
+202104 flat R failed => fixed
+
+
+

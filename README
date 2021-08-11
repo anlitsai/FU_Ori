@@ -1,0 +1,35 @@
+# how to run python and output log both in terminal and logfile
+
+$ condaa
+# activate conda
+
+
+list_yearmonth='202010 202011 202012 202101 202102 202103 202104'
+yearmonth='202010'
+
+
+$ python search_no_wcs_FU_Ori.py $yearmonth
+
+$ ./README_1month_step1.sh
+# $ python slt_calibration_master_1month_bias.py $yearmonth
+# $ python slt_calibration_master_1month_dark.py $yearmonth
+# $ python slt_calibration_master_1month_flat.py $yearmonth
+
+$ python slt_calibration_science_calibration_FU_Ori.py $yearmonth
+
+$ vi RefStar_FU_Ori_annu_mod_fk5.reg
+$ python slt_refStar_radec_annu.py
+
+$ python slt_target_fitsheader_info_exclude_baddata_permonth.py $yearmonth
+# no bad data
+
+$ python gasp_target_fitsheader_info_exclude_baddata_join.py
+
+# $ ./README_1month_step5.sh $yearmonth
+$ python slt_InstMag_Vmag_aperture_annulus_r_file_median_w1_subplot_date_FU_Ori.py | tee 'slt_InstMag_Vmag_aperture_annulus_r_file_median_w1_subplot_V.log'
+$ python slt_InstMag_Bmag_aperture_annulus_r_file_median_w1_subplot_date_FU_Ori.py | tee 'slt_InstMag_Bmag_aperture_annulus_r_file_median_w1_subplot_B.log'
+$ python slt_InstMag_Rmag_aperture_annulus_r_file_median_w1_subplot_date_FU_Ori.py | tee 'slt_InstMag_Rmag_aperture_annulus_r_file_median_w1_subplot_R.log'
+
+
+
+

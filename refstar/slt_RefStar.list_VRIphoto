@@ -1,0 +1,9 @@
+IAU_Name	ObjectName	RA_hhmmss	DEC_ddmmss	Redshift	RefStarID	Bmag	Bmag_err	Vmag	Vmag_err	Rmag	Rmag_err	NoteIdx	Note
+FU_Orionis	FU_Ori	05:45:22.359	+09:04:12.20	0.000	FU_Ori	-9999	-9999	-9999	-9999	-9999	-9999	0	star
+FU_Orionis	FU_Ori	05:45:42.340	+09:07:47.18	0.000	A	-9999	-9999	13.498	0.002	12.684	0.002	1	recommend;J/AJ/123/387/phot;VRIphotometry(Dolan+2002)
+FU_Orionis	FU_Ori	05:45:28.860	+09:01:45.02	0.000	B	-9999	-9999	13.093	0.002	11.336	0.002	1	recommend;J/AJ/123/387/phot;VRIphotometry(Dolan+2002)
+FU_Orionis	FU_Ori	05:45:21.585	+08:58:41.58	0.000	C	-9999	-9999	13.985	0.002	13.497	0.002	1	recommend;J/AJ/123/387/phot;VRIphotometry(Dolan+2002)
+FU_Orionis	FU_Ori	05:45:13.904	+09:04:44.39	0.000	D	-9999	-9999	13.421	0.002	12.273	0.002	1	recommend;J/AJ/123/387/phot;VRIphotometry(Dolan+2002)
+FU_Orionis	FU_Ori	05:45:02.609	+09:03:49.59	0.000	E	-9999	-9999	12.912	0.002	11.945	0.002	1	recommend;J/AJ/123/387/phot;VRIphotometry(Dolan+2002)
+FU_Orionis	FU_Ori	05:45:56.264	+08:57:18.56	0.000	I	-9999	-9999	12.927	0.002	12.533	0.002	1	recommend;J/AJ/123/387/phot;VRIphotometry(Dolan+2002)
+FU_Orionis	FU_Ori	05 45 22.3	+09 04 11	0.000	bkg	-9999	-9999	-9999	-9999	-9999	-9999	-1	background
